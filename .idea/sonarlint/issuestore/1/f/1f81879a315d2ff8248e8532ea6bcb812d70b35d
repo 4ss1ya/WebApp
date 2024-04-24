@@ -1,0 +1,28 @@
+
+h
+java:S1192O"MDefine a constant instead of duplicating this literal "profile_path" 3 times.(ê½Íÿşÿÿÿÿ
+`
+java:S1192L"JDefine a constant instead of duplicating this literal "credit_id" 3 times.(à¯ı¶
+a
+java:S1192'"KDefine a constant instead of duplicating this literal "popularity" 4 times.(×Ä÷¦
+d
+java:S1192&"IDefine a constant instead of duplicating this literal "overview" 4 times.(ŸğŠıÿÿÿÿ
+k
+java:S1192N"UDefine a constant instead of duplicating this literal "known_for_department" 3 times.(Šıëº
+g
+java:S1192("LDefine a constant instead of duplicating this literal "poster_path" 4 times.(ùĞ³€úÿÿÿÿ
+h
+java:S1192+"MDefine a constant instead of duplicating this literal "vote_average" 4 times.(”›ÈÌüÿÿÿÿ
+{
+java:S1488‡"dImmediately return this expression instead of assigning it to the temporary variable "detailsModel".(Õ»¯
+‚
+java:S1488©"fImmediately return this expression instead of assigning it to the temporary variable "detailsTVModel".(¢Óíñÿÿÿÿÿ
+v
+java:S1488À"ZImmediately return this expression instead of assigning it to the temporary variable "id".(Ë³ßèúÿÿÿÿ
+q
+java:S1488Ê"ZImmediately return this expression instead of assigning it to the temporary variable "id".(Ÿ©Ã
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öå»{
+´
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ŸÁÎ›üÿÿÿÿ
+r
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(š©ÔØüÿÿÿÿ

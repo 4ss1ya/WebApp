@@ -1,0 +1,30 @@
+
+
+java:S1192S"MDefine a constant instead of duplicating this literal "averageColor" 4 times.(Ñ‹şÃÿÿÿÿÿJ$9392efda-3f2f-40d1-b6fb-416547f66213
+‰
+java:S1192:"HDefine a constant instead of duplicating this literal "Referer" 5 times.(©ÿüäşÿÿÿÿJ$09c72e44-9806-404f-a89f-325164e6cf21
+†
+java:S1192º"IDefine a constant instead of duplicating this literal "userName" 4 times.(şØJ$7b611843-e531-4561-aeb9-1497853ef81e
+‹
+java:S1192;"JDefine a constant instead of duplicating this literal "redirect:" 5 times.(ëäşîùÿÿÿÿJ$a6e9fc34-19c9-451a-bb39-f8810ea6fe25
+‘	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ñóæøÿÿÿÿJ$c1818d7b-caf9-4bc5-9bef-ece061174f39
+	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÂÀ–J$efa1c94d-7f94-451b-9d2e-3806359f74a4
+’	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öä¨áüÿÿÿÿJ$06c088ce-8b75-42c5-8d21-b5b83e8eccb3
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×§ÌšJ$9b928066-72d4-42ac-b42a-b43e842b6a68
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$703515d8-3906-4528-abbc-5a8643144ab9
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2d8df0e4-d171-4146-9d1b-acb864403d7a
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞJ$abe058f2-960b-40ec-b77d-fe7d3867192f
+~
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞJ$b63c1374-6948-4143-8307-d369099c30a8
+~
+java:S6813'"BRemove this field injection and use constructor injection instead.(êæÄŞJ$41333691-ff47-46de-b934-1176686813a9
+~
+java:S6813*"BRemove this field injection and use constructor injection instead.(êæÄŞJ$d179631c-3a89-47af-8be9-5c077bedad98
+~
+java:S6813-"BRemove this field injection and use constructor injection instead.(êæÄŞJ$a7f22834-9948-46bf-ae92-d3adc8f3adc5
+w	java:S125O"<This block of commented-out lines of code should be removed.(è¢Ô×J$5ecb9e07-d355-4875-a105-2be25a399e65
+i
+java:S1068"(Remove this unused "UUID" private field.(úÍÏşÿÿÿÿJ$be0ab4e7-b2f2-4dc7-94e3-debf7435221b
